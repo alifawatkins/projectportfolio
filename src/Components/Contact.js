@@ -3,7 +3,7 @@
 
 function Contact() {
   return (
-    <div class="contact">
+    <div className="contact">
       <h1>So you wanna talk to me? O_o;</h1>
       <p>
         Not sure why you want to talk to me, but you can email me at

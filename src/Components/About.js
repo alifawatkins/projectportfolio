@@ -1,6 +1,6 @@
 function About() {
   return (
-    <div class="about">
+    <div className="about">
       <h1>About Me</h1>
       <img src="https://cdn.discordapp.com/attachments/761768235350622228/1091224948934197348/my_photo.jpg" width="40%"></img>
       <p>
