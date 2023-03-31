@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+html, body, #root, .App, .App>div{
+  height: 100%;
+}
+
+.App {
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+  font-size: larger;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 50px;
+  padding: 0 20px;
+  background: purple;
+}
+
+.nav > * {
+  padding-right: 20px;
+}
+
+.nav .nav-logo {
+  color: #99CC00;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+.nav a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
+.main {
+  padding: 0 20px;
+}
+
+body {
+  background-color: lavender;
+}
+
+footer {
+  background-color: lavender;
+  padding: 20px;
+  text-align: center;
+  margin-top: auto;
+}
+
+.social-icons a {
+  color: purple;
+  display: inline-block;
+  margin: 0 10px;
+  font-size: 20px;
+  transition: color 0.3s ease-in-out;
+}
+
+.social-icons a:hover {
+  color: lavender;
+}
+
+.weather {
+  color: white;
+  margin-left: auto;
+  margin-right: 50px;
+}
+
+.about p {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.contact p {
+  margin-left: 20px;
+  margin-right: 20px;
+}
