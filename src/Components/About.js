@@ -7,7 +7,7 @@ function About() {
         Hello, my name is Alifa Watkins. This is my portfolio. <b>*crickets*</b>
       </p>
       <p>
-        I don't really care for software engineering. <b>*pause*</b> But I do LOVE UX Design!! :D (and Web Design...sort of... as long as it's just HTML and CSS. NOT JAVASCRIPT OR REACT!! 😠) 
+        I don't reeeeeeally care for software engineering. <b>*pause*</b> But I do LOVE UX Design!! :D (and Web Design...sort of... as long as it's just HTML and CSS. NOT JAVASCRIPT OR REACT!! 😠) 
       </p>
       <p>So, if you came here looking to find a lot of cool stuff about software engineering, then maybe you should look somewhere else ^_^;</p>
       <p>I did make a cool VTuber Debut Game tho! So there's that. You can check that out in the portfolio tab~</p>
